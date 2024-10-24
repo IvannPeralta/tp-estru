@@ -22,6 +22,6 @@ ruby ProblemaX_Ruby.rb
 dentro de la carpeta ProblemaX-CSharp   
 dotnet run   
 
-###Para ejecutar los archivos Java   
+### Para ejecutar los archivos Java   
 javac ProblemaX_Java.java   
 java ProblemaX_Java   
