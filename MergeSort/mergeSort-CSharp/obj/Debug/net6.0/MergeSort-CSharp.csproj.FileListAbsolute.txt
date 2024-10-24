@@ -1,0 +1,15 @@
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/bin/Debug/net6.0/MergeSort-CSharp
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/bin/Debug/net6.0/MergeSort-CSharp.deps.json
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/bin/Debug/net6.0/MergeSort-CSharp.runtimeconfig.json
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/bin/Debug/net6.0/MergeSort-CSharp.dll
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/bin/Debug/net6.0/ref/MergeSort-CSharp.dll
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/bin/Debug/net6.0/MergeSort-CSharp.pdb
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.csproj.AssemblyReference.cache
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.AssemblyInfoInputs.cache
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.AssemblyInfo.cs
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.csproj.CoreCompileInputs.cache
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.dll
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/ref/MergeSort-CSharp.dll
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.pdb
+/home/ivan/tp-estru/MergeSort/MergeSort-CSharp/obj/Debug/net6.0/MergeSort-CSharp.genruntimeconfig.cache

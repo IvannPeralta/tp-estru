@@ -1,0 +1,15 @@
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/bin/Debug/net6.0/binarySearch-CSharp
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/bin/Debug/net6.0/binarySearch-CSharp.deps.json
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/bin/Debug/net6.0/binarySearch-CSharp.runtimeconfig.json
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/bin/Debug/net6.0/binarySearch-CSharp.dll
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/bin/Debug/net6.0/ref/binarySearch-CSharp.dll
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/bin/Debug/net6.0/binarySearch-CSharp.pdb
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.csproj.AssemblyReference.cache
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.AssemblyInfoInputs.cache
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.AssemblyInfo.cs
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.csproj.CoreCompileInputs.cache
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.dll
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/ref/binarySearch-CSharp.dll
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.pdb
+/home/ivan/tp-estru/BinarySearch/binarySearch-CSharp/obj/Debug/net6.0/binarySearch-CSharp.genruntimeconfig.cache
